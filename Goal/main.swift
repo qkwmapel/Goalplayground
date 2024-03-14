@@ -49,6 +49,7 @@ func compareFunc(_ Num: String){
     }
 }
 
+
 var input : String = "0"
 
 print("< 게임을 시작합니다 >")
